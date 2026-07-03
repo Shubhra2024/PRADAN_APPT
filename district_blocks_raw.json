@@ -1,0 +1,1470 @@
+{
+  "Kendujhar": {
+    "dimensions": "A1:DT374",
+    "num_blocks": 15,
+    "blocks": [
+      {
+        "label_col": 21,
+        "label": "BLOCK: DAT/GRASSROOTS 1- (NAME)",
+        "name": "Banspal"
+      },
+      {
+        "label_col": 27,
+        "label": "BLOCK: DAT/GRASSROOTS 2- (NAME)",
+        "name": "Patna"
+      },
+      {
+        "label_col": 33,
+        "label": "BLOCK: DAT/GRASSROOTS 3- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 39,
+        "label": "BLOCK: DAT/GRASSROOTS 4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 46,
+        "label": "BLOCK: ECOSYSTEM 1 - (NAME)",
+        "name": "Anandapur"
+      },
+      {
+        "label_col": 52,
+        "label": "BLOCK: ECOSYSTEM 2 - (NAME)",
+        "name": "Ghasipura"
+      },
+      {
+        "label_col": 58,
+        "label": "BLOCK: ECOSYSTEM 3 - (NAME)",
+        "name": "Hatadihi"
+      },
+      {
+        "label_col": 64,
+        "label": "BLOCK: ECOSYSTEM 4- (NAME)",
+        "name": "Harichandanpur"
+      },
+      {
+        "label_col": 70,
+        "label": "BLOCK: ECOSYSTEM 5 - (NAME)",
+        "name": "Telkoi"
+      },
+      {
+        "label_col": 76,
+        "label": "BLOCK: ECOSYSTEM 6 - (NAME)",
+        "name": "Joda"
+      },
+      {
+        "label_col": 82,
+        "label": "BLOCK: ECOSYSTEM 7 - (NAME)",
+        "name": "Champua"
+      },
+      {
+        "label_col": 88,
+        "label": "BLOCK: ECOSYSTEM 8 - (NAME)",
+        "name": "Keonjhar Sadar"
+      },
+      {
+        "label_col": 94,
+        "label": "BLOCK: ECOSYSTEM 9 - (NAME)",
+        "name": "Jhumpura"
+      },
+      {
+        "label_col": 100,
+        "label": "BLOCK: ECOSYSTEM 10 - (NAME)",
+        "name": "Ghatagaon"
+      },
+      {
+        "label_col": 106,
+        "label": "BLOCK: ECOSYSTEM 11 - (NAME)",
+        "name": "Saharpada"
+      }
+    ]
+  },
+  "Myuarbhanj": {
+    "dimensions": "A1:DT374",
+    "num_blocks": 14,
+    "blocks": [
+      {
+        "label_col": 21,
+        "label": "BLOCK: DAT/GRASSROOTS 1- (NAME)",
+        "name": "JASHIPUR"
+      },
+      {
+        "label_col": 27,
+        "label": "BLOCK: DAT/GRASSROOTS 2- (NAME)",
+        "name": "KARANJIA"
+      },
+      {
+        "label_col": 33,
+        "label": "BLOCK: DAT/GRASSROOTS 3- (NAME)",
+        "name": "THAKURMUNDA"
+      },
+      {
+        "label_col": 39,
+        "label": "BLOCK: DAT/GRASSROOTS 4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 46,
+        "label": "BLOCK: ECOSYSTEM 1 - (NAME)",
+        "name": "Thakurmunda"
+      },
+      {
+        "label_col": 52,
+        "label": "BLOCK: ECOSYSTEM 2 - (NAME)",
+        "name": "Khunta"
+      },
+      {
+        "label_col": 58,
+        "label": "BLOCK: ECOSYSTEM 3 - (NAME)",
+        "name": "Sukuruli"
+      },
+      {
+        "label_col": 64,
+        "label": "BLOCK: ECOSYSTEM 4- (NAME)",
+        "name": "Kusumi"
+      },
+      {
+        "label_col": 70,
+        "label": "BLOCK: ECOSYSTEM 5 - (NAME)",
+        "name": "Jamda"
+      },
+      {
+        "label_col": 76,
+        "label": "BLOCK: ECOSYSTEM 6 - (NAME)",
+        "name": "Rairangpur"
+      },
+      {
+        "label_col": 82,
+        "label": "BLOCK: ECOSYSTEM 7 - (NAME)",
+        "name": "Kaptipada"
+      },
+      {
+        "label_col": 88,
+        "label": "BLOCK: ECOSYSTEM 8 - (NAME)",
+        "name": "Udala"
+      },
+      {
+        "label_col": 94,
+        "label": "BLOCK: ECOSYSTEM 9 - (NAME)",
+        "name": "Kuliona"
+      },
+      {
+        "label_col": 100,
+        "label": "BLOCK: ECOSYSTEM 10 - (NAME)",
+        "name": "Marada"
+      }
+    ]
+  },
+  "Anugul": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Angul Sadar"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Athamalik"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Chhendipada"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "Kishorenagar"
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "Pallahada"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Dhenkanal": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Extended  1 - (NAME)",
+        "name": "Kankadahada"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Extended  2 - (NAME)",
+        "name": "Kamakhyanagar"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Extended  3 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Extended  4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Extended 5 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Extended  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Extended  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Extended  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Extended  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Extended  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Koraput": {
+    "dimensions": "A1:DT374",
+    "num_blocks": 16,
+    "blocks": [
+      {
+        "label_col": 21,
+        "label": "BLOCK: DAT/GRASSROOTS 1- (NAME)",
+        "name": "Lamtaput"
+      },
+      {
+        "label_col": 27,
+        "label": "BLOCK: DAT/GRASSROOTS 2- (NAME)",
+        "name": "Nandapur"
+      },
+      {
+        "label_col": 33,
+        "label": "BLOCK: DAT/GRASSROOTS 3- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 39,
+        "label": "BLOCK: DAT/GRASSROOTS 4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 46,
+        "label": "BLOCK: ECOSYSTEM 1 - (NAME)",
+        "name": "Semiliguda"
+      },
+      {
+        "label_col": 52,
+        "label": "BLOCK: ECOSYSTEM 2 - (NAME)",
+        "name": "Boipariguda"
+      },
+      {
+        "label_col": 58,
+        "label": "BLOCK: ECOSYSTEM 3 - (NAME)",
+        "name": "Dasmantapur"
+      },
+      {
+        "label_col": 64,
+        "label": "BLOCK: ECOSYSTEM 4- (NAME)",
+        "name": "Borigumma"
+      },
+      {
+        "label_col": 70,
+        "label": "BLOCK: ECOSYSTEM 5 - (NAME)",
+        "name": "Kundra"
+      },
+      {
+        "label_col": 76,
+        "label": "BLOCK: ECOSYSTEM 6 - (NAME)",
+        "name": "Pottangi"
+      },
+      {
+        "label_col": 82,
+        "label": "BLOCK: ECOSYSTEM 7 - (NAME)",
+        "name": "Narayanpatna"
+      },
+      {
+        "label_col": 88,
+        "label": "BLOCK: ECOSYSTEM 8 - (NAME)",
+        "name": "Bandhugaon"
+      },
+      {
+        "label_col": 94,
+        "label": "BLOCK: ECOSYSTEM 9 - (NAME)",
+        "name": "Koraput"
+      },
+      {
+        "label_col": 100,
+        "label": "BLOCK: ECOSYSTEM 10 - (NAME)",
+        "name": "Jeypore"
+      },
+      {
+        "label_col": 106,
+        "label": "BLOCK: ECOSYSTEM 11 - (NAME)",
+        "name": "Kotpad"
+      },
+      {
+        "label_col": 112,
+        "label": "BLOCK: ECOSYSTEM 12 - (NAME)",
+        "name": "Laxmipur"
+      }
+    ]
+  },
+  "Kandhamal": {
+    "dimensions": "A1:DT374",
+    "num_blocks": 14,
+    "blocks": [
+      {
+        "label_col": 21,
+        "label": "BLOCK: DAT/GRASSROOTS 1- (NAME)",
+        "name": "PHULBANI"
+      },
+      {
+        "label_col": 27,
+        "label": "BLOCK: DAT/GRASSROOTS 2- (NAME)",
+        "name": "BALIGUDA"
+      },
+      {
+        "label_col": 33,
+        "label": "BLOCK: DAT/GRASSROOTS 3- (NAME)",
+        "name": "K.NUAGAON"
+      },
+      {
+        "label_col": 39,
+        "label": "BLOCK: DAT/GRASSROOTS 4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 46,
+        "label": "BLOCK: ECOSYSTEM 1 - (NAME)",
+        "name": "PHIRINGIA"
+      },
+      {
+        "label_col": 52,
+        "label": "BLOCK: ECOSYSTEM 2 - (NAME)",
+        "name": "DARINGBADI"
+      },
+      {
+        "label_col": 58,
+        "label": "BLOCK: ECOSYSTEM 3 - (NAME)",
+        "name": "TIKABALI"
+      },
+      {
+        "label_col": 64,
+        "label": "BLOCK: ECOSYSTEM 4- (NAME)",
+        "name": "RAIKIA"
+      },
+      {
+        "label_col": 70,
+        "label": "BLOCK: ECOSYSTEM 5 - (NAME)",
+        "name": "TUMUDIBANDHA"
+      },
+      {
+        "label_col": 76,
+        "label": "BLOCK: ECOSYSTEM 6 - (NAME)",
+        "name": "KOTAGADA"
+      },
+      {
+        "label_col": 82,
+        "label": "BLOCK: ECOSYSTEM 7 - (NAME)",
+        "name": "KHAJURIPADA"
+      },
+      {
+        "label_col": 88,
+        "label": "BLOCK: ECOSYSTEM 8 - (NAME)",
+        "name": "CHAKAPAD"
+      },
+      {
+        "label_col": 94,
+        "label": "BLOCK: ECOSYSTEM 9 - (NAME)",
+        "name": "G.UDAYAGIRI"
+      },
+      {
+        "label_col": 100,
+        "label": "BLOCK: ECOSYSTEM 10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Rayagada": {
+    "dimensions": "A1:DT374",
+    "num_blocks": 14,
+    "blocks": [
+      {
+        "label_col": 21,
+        "label": "BLOCK: DAT/GRASSROOTS 1- (NAME)",
+        "name": "Kolnora"
+      },
+      {
+        "label_col": 27,
+        "label": "BLOCK: DAT/GRASSROOTS 2- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 33,
+        "label": "BLOCK: DAT/GRASSROOTS 3- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 39,
+        "label": "BLOCK: DAT/GRASSROOTS 4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 46,
+        "label": "BLOCK: ECOSYSTEM 1 - (NAME)",
+        "name": "Bissamcuttack"
+      },
+      {
+        "label_col": 52,
+        "label": "BLOCK: ECOSYSTEM 2 - (NAME)",
+        "name": "Muniguda"
+      },
+      {
+        "label_col": 58,
+        "label": "BLOCK: ECOSYSTEM 3 - (NAME)",
+        "name": "Kalaynsinghpur"
+      },
+      {
+        "label_col": 64,
+        "label": "BLOCK: ECOSYSTEM 4- (NAME)",
+        "name": "Chandrapur"
+      },
+      {
+        "label_col": 70,
+        "label": "BLOCK: ECOSYSTEM 5 - (NAME)",
+        "name": "Rayagada"
+      },
+      {
+        "label_col": 76,
+        "label": "BLOCK: ECOSYSTEM 6 - (NAME)",
+        "name": "Ramnaguda"
+      },
+      {
+        "label_col": 82,
+        "label": "BLOCK: ECOSYSTEM 7 - (NAME)",
+        "name": "Kasipur"
+      },
+      {
+        "label_col": 88,
+        "label": "BLOCK: ECOSYSTEM 8 - (NAME)",
+        "name": "Gunpur"
+      },
+      {
+        "label_col": 94,
+        "label": "BLOCK: ECOSYSTEM 9 - (NAME)",
+        "name": "gudari"
+      },
+      {
+        "label_col": 100,
+        "label": "BLOCK: ECOSYSTEM 10 - (NAME)",
+        "name": "Padmapur"
+      }
+    ]
+  },
+  "Kalahandi": {
+    "dimensions": "A1:DT374",
+    "num_blocks": 16,
+    "blocks": [
+      {
+        "label_col": 21,
+        "label": "BLOCK: DAT/GRASSROOTS 1- (NAME)",
+        "name": "LANJIGARH"
+      },
+      {
+        "label_col": 27,
+        "label": "BLOCK: DAT/GRASSROOTS 2- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 33,
+        "label": "BLOCK: DAT/GRASSROOTS 3- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 39,
+        "label": "BLOCK: DAT/GRASSROOTS 4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 46,
+        "label": "BLOCK: ECOSYSTEM 1 - (NAME)",
+        "name": "TH RAMPUR"
+      },
+      {
+        "label_col": 52,
+        "label": "BLOCK: ECOSYSTEM 2 - (NAME)",
+        "name": "GOLAMUNDA"
+      },
+      {
+        "label_col": 58,
+        "label": "BLOCK: ECOSYSTEM 3 - (NAME)",
+        "name": "M RAMPUR"
+      },
+      {
+        "label_col": 64,
+        "label": "BLOCK: ECOSYSTEM 4- (NAME)",
+        "name": "BHAWANIPATNA"
+      },
+      {
+        "label_col": 70,
+        "label": "BLOCK: ECOSYSTEM 5 - (NAME)",
+        "name": "NARLA"
+      },
+      {
+        "label_col": 76,
+        "label": "BLOCK: ECOSYSTEM 6 - (NAME)",
+        "name": "KESINGA"
+      },
+      {
+        "label_col": 82,
+        "label": "BLOCK: ECOSYSTEM 7 - (NAME)",
+        "name": "JAYPATNA"
+      },
+      {
+        "label_col": 88,
+        "label": "BLOCK: ECOSYSTEM 8 - (NAME)",
+        "name": "JUNAGARH"
+      },
+      {
+        "label_col": 94,
+        "label": "BLOCK: ECOSYSTEM 9 - (NAME)",
+        "name": "DHARMAGARH"
+      },
+      {
+        "label_col": 100,
+        "label": "BLOCK: ECOSYSTEM 10 - (NAME)",
+        "name": "KOKASARA"
+      },
+      {
+        "label_col": 106,
+        "label": "BLOCK: ECOSYSTEM 11 - (NAME)",
+        "name": "KARLAMUNDA"
+      },
+      {
+        "label_col": 112,
+        "label": "BLOCK: ECOSYSTEM 12 - (NAME)",
+        "name": "KALAMPUR"
+      }
+    ]
+  },
+  "Balangir": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "BONGAMUNDA"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "BELPARA"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "MURIBAHAL"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "KHAPRAKHOL"
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "TITILAGARH"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": "TUREKELA"
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": "GUDVELA"
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": "LOISINGHA"
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Boudh": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Extended  1 - (NAME)",
+        "name": "Kantamal"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Extended  2 - (NAME)",
+        "name": "Harbhanga"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Extended  3 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Extended  4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Extended 5 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Extended  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Extended  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Extended  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Extended  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Extended  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Bargarh": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "PAIKMAL"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "JHARBANDH"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "PADAMPUR"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "GAISILET"
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "BIJEPUR"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Sambalpur": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Kuchinda"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Jamankira"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Bamra"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "Jujumura"
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "Rengali"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Deogarh": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Reamal"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Tileibani"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Barkot"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Nuapada": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Nuapada"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Komna"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Khariar"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "Boden"
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "Sinapali"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Jharsuguda": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Jharsuguda"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Kirmira"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Kolabira"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "Laikera"
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "Lakhanpur"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Sundargarh": {
+    "dimensions": "A1:EH1276",
+    "num_blocks": 17,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Badgaon"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Balisankara"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Bisra"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "Bonai"
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "Gurundia"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": "Hemgir"
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": "Koira"
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": "Kuarmunda"
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": "Kutra"
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": "Lahunipada"
+      },
+      {
+        "label_col": 78,
+        "label": "Block: Ecosystem  11 - (NAME)",
+        "name": "Lathikata"
+      },
+      {
+        "label_col": 84,
+        "label": "Block: Ecosystem  12 - (NAME)",
+        "name": "Lephripada"
+      },
+      {
+        "label_col": 90,
+        "label": "Block: Ecosystem  13 - (NAME)",
+        "name": "Nuagaon"
+      },
+      {
+        "label_col": 96,
+        "label": "Block: Ecosystem  14 - (NAME)",
+        "name": "Rajgangpur"
+      },
+      {
+        "label_col": 102,
+        "label": "Block: Ecosystem  15 - (NAME)",
+        "name": "Subdega"
+      },
+      {
+        "label_col": 108,
+        "label": "Block: Ecosystem  16- (NAME)",
+        "name": "Sundargarh Sadar"
+      },
+      {
+        "label_col": 114,
+        "label": "Block: Ecosystem  17- (NAME)",
+        "name": "Tangarpali"
+      }
+    ]
+  },
+  "Bhadrakh": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Extended  1 - (NAME)",
+        "name": "Tihidi"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Extended  2 - (NAME)",
+        "name": "Bonth"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Extended  3 - (NAME)",
+        "name": "Basudevpur"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Extended  4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Extended 5 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Extended  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Extended  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Extended  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Extended  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Extended  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Baleswar": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Extended  1 - (NAME)",
+        "name": "Khaira"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Extended  2 - (NAME)",
+        "name": "Jaleswar"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Extended  3 - (NAME)",
+        "name": "Bhogarai"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Extended  4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Extended 5 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Extended  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Extended  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Extended  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Extended  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Extended  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Nayagarh": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Ranapur"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Nuagaon"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Gania"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Malkangiri": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Mathili"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Khairiput"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Nabarangpur": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Nandahandi"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Popadahandi"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Jharigaon"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "Kosagumuda"
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "Nowarangapur"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": "Chandahandi"
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": "Dabugaon"
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": "Raighar"
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": "Tentulikhunti"
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": "umarkote"
+      }
+    ]
+  },
+  "Gajapati": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Nuagada"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Mohona "
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Rayagada"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": "R. Udayagiri "
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": "Gumma"
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  },
+  "Ganjam": {
+    "dimensions": "A1:CR1276",
+    "num_blocks": 10,
+    "blocks": [
+      {
+        "label_col": 18,
+        "label": "Block: Ecosystem  1 - (NAME)",
+        "name": "Chatrapur"
+      },
+      {
+        "label_col": 24,
+        "label": "Block: Ecosystem  2 - (NAME)",
+        "name": "Ganjam"
+      },
+      {
+        "label_col": 30,
+        "label": "Block: Ecosystem  3 - (NAME)",
+        "name": "Surada"
+      },
+      {
+        "label_col": 36,
+        "label": "Block: Ecosystem  4- (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 42,
+        "label": "Block: Ecosystem 5 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 48,
+        "label": "Block: Ecosystem  6 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 54,
+        "label": "Block: Ecosystem  7 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 60,
+        "label": "Block: Ecosystem  8 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 66,
+        "label": "Block: Ecosystem  9 - (NAME)",
+        "name": null
+      },
+      {
+        "label_col": 72,
+        "label": "Block: Ecosystem  10 - (NAME)",
+        "name": null
+      }
+    ]
+  }
+}

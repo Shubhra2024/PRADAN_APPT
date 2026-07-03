@@ -1,0 +1,2375 @@
+[
+  {
+    "code": "GE-01",
+    "theme": "General Engagement",
+    "subtheme": null,
+    "text": "Number of GPs covered",
+    "period": "Cumulative"
+  },
+  {
+    "code": "GE-02",
+    "theme": "General Engagement",
+    "subtheme": null,
+    "text": "Number of villages covered",
+    "period": "Cumulative"
+  },
+  {
+    "code": "GE-03",
+    "theme": "General Engagement",
+    "subtheme": null,
+    "text": "Number of Net Households reached",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FL-01",
+    "theme": "Finance leveraged",
+    "subtheme": "Finance raised/mobilised",
+    "text": "Total Finance raised/mobilised (Public+Private)",
+    "period": "Period"
+  },
+  {
+    "code": "FL-02",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised under various Govt. programmes (Public)for asset creation- Total (all programmes/schemes)",
+    "period": "Period"
+  },
+  {
+    "code": "FL-03",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- MGNREGA",
+    "period": "Period"
+  },
+  {
+    "code": "FL-04",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- WRD (Irrigation)",
+    "period": "Period"
+  },
+  {
+    "code": "FL-05",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- WRD (Drinking Water)",
+    "period": "Period"
+  },
+  {
+    "code": "FL-06",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- Agriculture",
+    "period": "Period"
+  },
+  {
+    "code": "FL-07",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- NRLM",
+    "period": "Period"
+  },
+  {
+    "code": "FL-08",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- NABARD",
+    "period": "Period"
+  },
+  {
+    "code": "FL-09",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- DMF",
+    "period": "Period"
+  },
+  {
+    "code": "FL-10",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- Panchayati Raj",
+    "period": "Period"
+  },
+  {
+    "code": "FL-11",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised-Animal Husbandry",
+    "period": "Period"
+  },
+  {
+    "code": "FL-12",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance raised/mobilised- Others only",
+    "period": "Period"
+  },
+  {
+    "code": "FL-13",
+    "theme": "Finance leveraged",
+    "subtheme": "Asset creation- Private",
+    "text": "Total Finance raised/mobilised for asset creation- Private Fund",
+    "period": "Period"
+  },
+  {
+    "code": "FL-14",
+    "theme": "Finance leveraged",
+    "subtheme": "Capacity Building and Institution Building",
+    "text": "Finance raised for capacity building and Institution building- Total  (Public+Private)",
+    "period": "Period"
+  },
+  {
+    "code": "FL-15",
+    "theme": "Finance leveraged",
+    "subtheme": "Capacity Building",
+    "text": "Finance raised for capacity building and Institution building- Government Fund",
+    "period": "Period"
+  },
+  {
+    "code": "FL-16",
+    "theme": "Finance leveraged",
+    "subtheme": "Capacity Building",
+    "text": "Finance raised for capacity building and Institution building- Private Fund including donors",
+    "period": "Period"
+  },
+  {
+    "code": "FL-17",
+    "theme": "Finance leveraged",
+    "subtheme": "Working Capital",
+    "text": "Working Capital including input subsidies-Total",
+    "period": "Period"
+  },
+  {
+    "code": "FL-18",
+    "theme": "Finance leveraged",
+    "subtheme": "Credit mobilised",
+    "text": "Credit mobilised -Total",
+    "period": "Period"
+  },
+  {
+    "code": "FI-01",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested under various Govt. programmes for asset creation-Total (all programmes)",
+    "period": "Period"
+  },
+  {
+    "code": "FI-02",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- MGNREGA",
+    "period": "Period"
+  },
+  {
+    "code": "FI-03",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- WRD (Irrigation)",
+    "period": "Period"
+  },
+  {
+    "code": "FI-04",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- WRD (Drinking Water)",
+    "period": "Period"
+  },
+  {
+    "code": "FI-05",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- Agriculture",
+    "period": "Period"
+  },
+  {
+    "code": "FI-06",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- NRLM",
+    "period": "Period"
+  },
+  {
+    "code": "FI-07",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- NABARD",
+    "period": "Period"
+  },
+  {
+    "code": "FI-08",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- DMF",
+    "period": "Period"
+  },
+  {
+    "code": "FI-09",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- Panchayati Raj",
+    "period": "Period"
+  },
+  {
+    "code": "FI-10",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested-Animal Husbandry",
+    "period": "Period"
+  },
+  {
+    "code": "FI-11",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Public Fund",
+    "text": "Finance Invested- Others only",
+    "period": "Period"
+  },
+  {
+    "code": "FI-12",
+    "theme": "Finance Invested",
+    "subtheme": "Asset creation- Private",
+    "text": "Total Finance invested for asset creation- Private Fund",
+    "period": "Period"
+  },
+  {
+    "code": "SC-01",
+    "theme": "Social collectives",
+    "subtheme": "VO",
+    "text": "Number of Social Collectives- VO",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-02",
+    "theme": "Social collectives",
+    "subtheme": "GPLF",
+    "text": "Number of Social Collectives- GPLF",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-03",
+    "theme": "Social collectives",
+    "subtheme": "CLF",
+    "text": "Number of Social Collectives- CLF",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-04",
+    "theme": "Social collectives",
+    "subtheme": "BLF",
+    "text": "Number of Social Collectives- BLF",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-05",
+    "theme": "Social collectives",
+    "subtheme": "VO",
+    "text": "Number of mature VO",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-06",
+    "theme": "Social collectives",
+    "subtheme": "CLF",
+    "text": "Number of mature CLFs",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-07",
+    "theme": "Social collectives",
+    "subtheme": "CLF",
+    "text": "Number of CLF demonstrating financial viability and self-sufficiency",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-08",
+    "theme": "Social collectives",
+    "subtheme": "VO/GPLF",
+    "text": "Number of VO demonstrating financial viability and self-sufficiency",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-09",
+    "theme": "Social collectives",
+    "subtheme": "VO",
+    "text": "Number of VOs where gender based issues have been identified and have action plan to address (gender gaps in education, nutrition, livelihoods)",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-10",
+    "theme": "Social collectives",
+    "subtheme": "CLF",
+    "text": "Number of CLFs where institutional architecture established and responding to Gender specific issues and GBV",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-11",
+    "theme": "Social collectives",
+    "subtheme": "CLF",
+    "text": "Number of CLFs with strengthened Social Action Committees",
+    "period": "Cumulative"
+  },
+  {
+    "code": "SC-12",
+    "theme": "Social collectives",
+    "subtheme": "VO/GPLF",
+    "text": "Number of VO/GPLF actively participating in GP planning process",
+    "period": "Period"
+  },
+  {
+    "code": "SC-13",
+    "theme": "Social collectives",
+    "subtheme": "CLF",
+    "text": "Number of CLFs that articulated at least two gender outcomes in their action plans",
+    "period": "Period"
+  },
+  {
+    "code": "SC-14",
+    "theme": "Social collectives",
+    "subtheme": "VO",
+    "text": "Number of VO that articulated at least two gender outcomes in their action plans",
+    "period": "Period"
+  },
+  {
+    "code": "SC-15",
+    "theme": "Social collectives",
+    "subtheme": "CLF",
+    "text": "Number of members with at least one livelihood activity supported by CLF",
+    "period": "Period"
+  },
+  {
+    "code": "SC-16",
+    "theme": "Social collectives",
+    "subtheme": "VO",
+    "text": "Principal repayment rate of CIF by VOs",
+    "period": "Period"
+  },
+  {
+    "code": "SC-17",
+    "theme": "Social collectives",
+    "subtheme": "VO",
+    "text": "Interest repayment rate of CIF by VOs",
+    "period": "Period"
+  },
+  {
+    "code": "SC-18",
+    "theme": "Social collectives",
+    "subtheme": "CLF",
+    "text": "Idle fund percentage of CLF",
+    "period": "Period"
+  },
+  {
+    "code": "SC-19",
+    "theme": "Social collectives",
+    "subtheme": "Credit",
+    "text": "Credit from SHGs (total)",
+    "period": "Period"
+  },
+  {
+    "code": "SC-20",
+    "theme": "Social collectives",
+    "subtheme": "Credit",
+    "text": "Credit from Banks (through SHGs)",
+    "period": "Period"
+  },
+  {
+    "code": "SC-21",
+    "theme": "Social collectives",
+    "subtheme": "Credit",
+    "text": "Credit from Banks (other than SHGs)",
+    "period": "Period"
+  },
+  {
+    "code": "SC-22",
+    "theme": "Social collectives",
+    "subtheme": "Credit",
+    "text": "Credit from any other source",
+    "period": "Period"
+  },
+  {
+    "code": "SC-23",
+    "theme": "Social collectives",
+    "subtheme": "VO/GPLF",
+    "text": "Number of women in VO/GPLF trained on governance and organisation development",
+    "period": "Period"
+  },
+  {
+    "code": "SC-24",
+    "theme": "Social collectives",
+    "subtheme": "VO/GPLF",
+    "text": "Number of VO/GPLF trained on governance and organisation development",
+    "period": "Period"
+  },
+  {
+    "code": "SC-25",
+    "theme": "Social collectives",
+    "subtheme": "CLF/BLF",
+    "text": "Number of CLF/BLF trained on governance and organisation development",
+    "period": "Period"
+  },
+  {
+    "code": "SC-26",
+    "theme": "Social collectives",
+    "subtheme": "Gender_Training",
+    "text": "Number of VO/GPLF trained on Gender awareness and planning",
+    "period": "Period"
+  },
+  {
+    "code": "SC-27",
+    "theme": "Social collectives",
+    "subtheme": "Gender_Training",
+    "text": "Number of women in VO/GPLF trained on Gender awareness and planning",
+    "period": "Period"
+  },
+  {
+    "code": "SC-28",
+    "theme": "Social collectives",
+    "subtheme": "Gender_Training",
+    "text": "Number of CLF/BLF trained on Gender awareness and planning",
+    "period": "Period"
+  },
+  {
+    "code": "SC-29",
+    "theme": "Social collectives",
+    "subtheme": "VO/GPLF",
+    "text": "Number of VO/GPLF trained on inclusive planning process with INRM perspective",
+    "period": "Period"
+  },
+  {
+    "code": "SC-30",
+    "theme": "Social collectives",
+    "subtheme": "Inclusive Planning and LSDGs",
+    "text": "Number of women in VO/GPLF trained on inclusive planning process with INRM perspective",
+    "period": "Period"
+  },
+  {
+    "code": "SC-31",
+    "theme": "Social collectives",
+    "subtheme": "Inclusive Planning and LSDGs",
+    "text": "Number of CLF/BLF trained on inclusive planning process with INRM perspective",
+    "period": "Period"
+  },
+  {
+    "code": "SC-32",
+    "theme": "Social collectives",
+    "subtheme": "Enterprise_training",
+    "text": "Number of VO/GPLF trained on entrepreneurial initiatives / income-generating activities/enterprise",
+    "period": "Period"
+  },
+  {
+    "code": "SC-33",
+    "theme": "Social collectives",
+    "subtheme": "Enterprise_training",
+    "text": "Number of women in VO/GPLF trained on entrepreneurial initiatives / income-generating activities/enterprise",
+    "period": "Period"
+  },
+  {
+    "code": "SC-34",
+    "theme": "Social collectives",
+    "subtheme": "Enterprise_training",
+    "text": "Number of CLF/BLF trained on entrepreneurial initiatives / income-generating activities/enterprise",
+    "period": "Period"
+  },
+  {
+    "code": "SC-35",
+    "theme": "Social collectives",
+    "subtheme": "Enterprise_training",
+    "text": "Number of CLF/BLF trained on financial management/business plan",
+    "period": "Period"
+  },
+  {
+    "code": "EC-01",
+    "theme": "Economic Collectives",
+    "subtheme": "FPO",
+    "text": "Number of Farmer Producer Organisations (FPOs) formed/promoted",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-02",
+    "theme": "Economic Collectives",
+    "subtheme": "FPO",
+    "text": "Number of women Farmer Producer Organisations (FPOs) formed/promoted",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-03",
+    "theme": "Economic Collectives",
+    "subtheme": "FPO",
+    "text": "Number of men shareholders in FPOs",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-04",
+    "theme": "Economic Collectives",
+    "subtheme": "FPO",
+    "text": "Number of women shareholders in FPOs",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-05",
+    "theme": "Economic Collectives",
+    "subtheme": "FPO",
+    "text": "Number of mature FPO (count those with grades A & B.)",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-06",
+    "theme": "Economic Collectives",
+    "subtheme": "APC",
+    "text": "Number of Agriculture Production Clusters",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-07",
+    "theme": "Economic Collectives",
+    "subtheme": "PG/FIG/MPA",
+    "text": "Number of PG/FIG/MPA of women",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-08",
+    "theme": "Economic Collectives",
+    "subtheme": "PG/FIG/MPA",
+    "text": "Number of members in PG/FIG/MPA",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-09",
+    "theme": "Economic Collectives",
+    "subtheme": "FPO",
+    "text": "Number of Economic collectives i.e. FPOs transferring dividend/income in the women farmer's accounts",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-10",
+    "theme": "Economic Collectives",
+    "subtheme": "FPO",
+    "text": "Number of FPOs with annual turnover of at least INR 50 Lakh",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EC-11",
+    "theme": "Economic Collectives",
+    "subtheme": "FPO",
+    "text": "Number of FPOs with profit margin of at least INR 20 Lakh",
+    "period": "Period"
+  },
+  {
+    "code": "PR-01",
+    "theme": "PRIs",
+    "subtheme": "Inclusive Planning and LSDGs",
+    "text": "Number of Gram Panchayats actively implementing L-SDGs",
+    "period": "Cumulative"
+  },
+  {
+    "code": "PR-02",
+    "theme": "PRIs",
+    "subtheme": "Inclusive Planning and LSDGs",
+    "text": "Number of PRIs supported by PRADAN",
+    "period": "Period"
+  },
+  {
+    "code": "PR-03",
+    "theme": "PRIs",
+    "subtheme": "Inclusive Planning and LSDGs",
+    "text": "Number of GPs where training sessions conducted on gender sensitivity, inclusive planning, and LSDGs for gram panchayat members and staff.",
+    "period": "Period"
+  },
+  {
+    "code": "PR-04",
+    "theme": "PRIs",
+    "subtheme": "Inclusive Planning and LSDGs",
+    "text": "Number of GPs involved in inclusive planning (inputs from diverse community groups, including women, marginalized communities, and persons with disabilities) for livelihoods asset creation",
+    "period": "Cumulative"
+  },
+  {
+    "code": "PR-05",
+    "theme": "PRIs",
+    "subtheme": "GPOD and other supports",
+    "text": "Number of GPs where PRI-CBO convergence have been implemented",
+    "period": "Cumulative"
+  },
+  {
+    "code": "CR-01",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of Community Resource Persons (CRPs)- Men",
+    "period": "Cumulative"
+  },
+  {
+    "code": "CR-02",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of Community Resource Persons (CRPs)- Women",
+    "period": "Cumulative"
+  },
+  {
+    "code": "CR-03",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of active institution strengthening CRPs/master trainers trained to enhance their technical skills- Men",
+    "period": "Period"
+  },
+  {
+    "code": "CR-04",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of active institution strengthening CRPs/master trainers trained to enhance their technical skills- Women",
+    "period": "Period"
+  },
+  {
+    "code": "CR-05",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of active INRM CRPs/master trainers who have undergone training programs to enhance their technical skills- Men",
+    "period": "Period"
+  },
+  {
+    "code": "CR-06",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of active INRM CRPs/master trainers trained to enhance their technical skills- Women",
+    "period": "Period"
+  },
+  {
+    "code": "CR-07",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of active Livelihood CRPs/master trainers trained to enhance their technical skills- Men",
+    "period": "Period"
+  },
+  {
+    "code": "CR-08",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of active Livelihood CRPs/master trainers who have undergone training programs to enhance their technical skills- Women",
+    "period": "Period"
+  },
+  {
+    "code": "CR-09",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of active Gender CRPs /Master trainers trained on addressing Gender-based discrimination and GBV-Men",
+    "period": "Period"
+  },
+  {
+    "code": "CR-10",
+    "theme": "CRPs",
+    "subtheme": "Capacity Building",
+    "text": "Number of active Gender CRPs /Master trainers trained on addressing Gender based discrimination and GBV- Women",
+    "period": "Period"
+  },
+  {
+    "code": "CR-11",
+    "theme": "CRPs",
+    "subtheme": "Technology use",
+    "text": "Number of CRPs using ICT for learning purposes, including online courses, e-learning platforms, and digital educational resources-Men",
+    "period": "Cumulative"
+  },
+  {
+    "code": "CR-12",
+    "theme": "CRPs",
+    "subtheme": "Technology use",
+    "text": "Number of CRPs using ICT for learning purposes, including online courses, e-learning platforms, and digital educational resources-Women",
+    "period": "Cumulative"
+  },
+  {
+    "code": "GI-01",
+    "theme": "Gender Intentional",
+    "subtheme": "VO-SAC",
+    "text": "Number of VO SAC trained on R&E, GBV, roles and responsibilities",
+    "period": "Period"
+  },
+  {
+    "code": "GI-02",
+    "theme": "Gender Intentional",
+    "subtheme": "VO-SAC",
+    "text": "Number of women in VO SAC trained on R&E, GBV, roles and responsibilities",
+    "period": "Period"
+  },
+  {
+    "code": "GI-03",
+    "theme": "Gender Mainstreaming",
+    "subtheme": "Technical Knowledge",
+    "text": "Number of women trained on livelihood skills- (Net)",
+    "period": "period"
+  },
+  {
+    "code": "GI-04",
+    "theme": "Income",
+    "subtheme": "Asset Ownership",
+    "text": "Number of women with decision-making/control over productive resources",
+    "period": "Cumulative"
+  },
+  {
+    "code": "GI-05",
+    "theme": "Income",
+    "subtheme": "Control over income",
+    "text": "Number of women with control over income",
+    "period": "Cumulative"
+  },
+  {
+    "code": "GI-06",
+    "theme": "Income",
+    "subtheme": "Asset Ownership",
+    "text": "Number of women with Productive assets in their names",
+    "period": "Cumulative"
+  },
+  {
+    "code": "GI-07",
+    "theme": "Income",
+    "subtheme": "Control over income",
+    "text": "Number of women received income in their Bank accounts",
+    "period": "Cumulative"
+  },
+  {
+    "code": "GI-08",
+    "theme": "Gender and Inclusion",
+    "subtheme": "Ultra-poor",
+    "text": "Number of Ultra-poor identified and registered in VO/GPLF and GS (in formal register)",
+    "period": "Cumulative"
+  },
+  {
+    "code": "GI-09",
+    "theme": "Gender and Inclusion",
+    "subtheme": "Ultra-poor",
+    "text": "Number of ultra-poor receiving/securing at least one entitlement",
+    "period": "Cumulative"
+  },
+  {
+    "code": "NU-01",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition and WASH",
+    "text": "Number of VO/GPLF trained on WASH",
+    "period": "Period"
+  },
+  {
+    "code": "NU-02",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition and WASH",
+    "text": "Number of women in VO/GPLF trained on WASH",
+    "period": "Period"
+  },
+  {
+    "code": "NU-03",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition and WASH",
+    "text": "Number of VO/GPLF trained on Nutrition",
+    "period": "Period"
+  },
+  {
+    "code": "NU-04",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition and WASH",
+    "text": "Number of women in VO/GPLF trained on Nutrition",
+    "period": "Period"
+  },
+  {
+    "code": "NU-05",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition and WASH",
+    "text": "Number of CLF/BLF trained on WASH and Nutrition",
+    "period": "Period"
+  },
+  {
+    "code": "NU-06",
+    "theme": "Nutrition Specific",
+    "subtheme": "Nutrition information and awareness",
+    "text": "Number of households accessing nutritional entitlements through AWCs, PMMVY, THR (lactating & pregnant mother, adolescents & women with eligible child),  etc",
+    "period": "Cumulative"
+  },
+  {
+    "code": "NU-07",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition sensitive Agriculture",
+    "text": "Number of women oriented on nutrition and nutrition-sensitive agriculture and practices, and behavioral changes related to health and hygiene",
+    "period": "Period"
+  },
+  {
+    "code": "NU-08",
+    "theme": "Nutrition Specific",
+    "subtheme": "Nutrition information and awareness",
+    "text": "Number of households oriented on importance of nutrition and food groups",
+    "period": "Period"
+  },
+  {
+    "code": "NU-09",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition sensitive Agriculture",
+    "text": "Number of households adopted diversified nutrition-sensitive crops for consumption and commercials",
+    "period": "Period"
+  },
+  {
+    "code": "NU-10",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition sensitive Agriculture",
+    "text": "Number of households with composite designed kitchen/nutri garden or Poshanwadi or multi-layer nutrition farm",
+    "period": "Period"
+  },
+  {
+    "code": "NU-11",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition and WASH",
+    "text": "Number of households with access to piped water supply",
+    "period": "Cumulative"
+  },
+  {
+    "code": "NU-12",
+    "theme": "Nutrition Sensitive",
+    "subtheme": "Nutrition and WASH",
+    "text": "Number of households having new/improved sanitation and bathing facilities",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LI-01",
+    "theme": "Livelihoods",
+    "subtheme": "Livelihoods HH intervention",
+    "text": "Number of households supported for livelihood/ in income-generating activities including farm, non-farm, off-farm, skills and jobs, etc.- (Net)",
+    "period": "Period"
+  },
+  {
+    "code": "LI-02",
+    "theme": "Livelihoods",
+    "subtheme": "Livelihoods HH intervention",
+    "text": "Number of households supported in two or more income generating activities (including farm, non-farm, off-farm, skills and jobs, etc.)",
+    "period": "Period"
+  },
+  {
+    "code": "LI-03",
+    "theme": "Livelihoods",
+    "subtheme": "Ultra-poor Livelihoods",
+    "text": "Number of ultra poor households supported under the ultra poor graduation approach (including farm, non-farm, off-farm, skills and jobs, etc.)",
+    "period": "Period"
+  },
+  {
+    "code": "LI-04",
+    "theme": "Livelihoods",
+    "subtheme": "Technical Knowledge",
+    "text": "Number of trained individuals with enhanced technical knowledge and skills (farm, non-farm, off-farm)- (Net)",
+    "period": "Period"
+  },
+  {
+    "code": "LI-05",
+    "theme": "Livelihoods",
+    "subtheme": "Technical Knowledge",
+    "text": "Number of trained individuals with enhanced technical knowledge and skills- Women",
+    "period": "Period"
+  },
+  {
+    "code": "LI-06",
+    "theme": "Income",
+    "subtheme": "Livelihoods HH intervention",
+    "text": "Number of households with AHI of at least INR 2.5 lakh",
+    "period": "Period"
+  },
+  {
+    "code": "LI-07",
+    "theme": "Income",
+    "subtheme": "Livelihoods HH intervention",
+    "text": "Number of households with AHI of at least INR 2 lakh",
+    "period": "Period"
+  },
+  {
+    "code": "LI-08",
+    "theme": "Income",
+    "subtheme": "Livelihoods HH intervention",
+    "text": "Number of households with AHI of at least INR 1 lakh",
+    "period": "Period"
+  },
+  {
+    "code": "LI-09",
+    "theme": "Livelihoods",
+    "subtheme": "Ultra-poor Livelihoods",
+    "text": "Number of ultra-poor households having at least INR 60,000 AHI per annum",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-01",
+    "theme": "Agricultural crop production",
+    "subtheme": "Agriculture",
+    "text": "Number of households adopting improved agricultural practices (including RA)- Net",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-02",
+    "theme": "Agricultural crop production",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Number of households adopting Regenerative agricultural practices (RA)- Net",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-03",
+    "theme": "Agricultural crop production",
+    "subtheme": "Agriculture",
+    "text": "Number of households trained in improved agriculture- Net",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-04",
+    "theme": "Agricultural crop production",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Number of households trained in Regenerative agriculture (RA)- Net",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-05",
+    "theme": "Agricultural crop production",
+    "subtheme": "Agriculture",
+    "text": "Area under agriculture (including RA)- Total",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-06",
+    "theme": "Agricultural crop production",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Area under Regenerative agriculture (RA)- Total",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-31",
+    "theme": "Agricultural crop production",
+    "subtheme": "Agriculture",
+    "text": "Number of households adopting agriculture (including RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-32",
+    "theme": "Agricultural crop production",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Number of Households adopting Regenerative agriculture (RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-33",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Number of households adopting Cereal Crops (including RA) - Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-34",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Area under cereal crops (including RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-35",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Area under cereal crops through Regenerative Agriculture- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-36",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Total volume of production (including RA)- Cereal crops- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-37",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Number of households adopting Millets (including RA) - Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-38",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Area under Millets (including RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-39",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Area under Millets through Regenerative Agriculture- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-40",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Total volume of production (including RA)-Millets- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-41",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Number of households adopting Pulses (including RA) - Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-42",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Area under Pulses (including RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-43",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Area under Pulses through Regenerative Agriculture- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-44",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Total volume of production (including RA)-Pulses- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-45",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Number of households adopting Oilseeds (including RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-46",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Area under Oilseeds (including RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-47",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Area under Oilseeds through Regenerative Agriculture- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-48",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Total volume of production (including RA)-Oilseeds- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-49",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Number of households adopting Vegetables (including RA) - Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-50",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Area under Vegetables (including RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-51",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Area under Vegetables through Regenerative Agriculture- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-52",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Total volume of production (including RA)-Vegetables- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-53",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Number of households adopting High Value Crops (including RA) - Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-54",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Area under High Value Crops (including RA)- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-55",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Area under High Value Crops through Regenerative Agriculture- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-56",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Total volume of production (including RA)-High Value Crops- Kharif",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-57",
+    "theme": "Agricultural crop production",
+    "subtheme": "Agriculture",
+    "text": "Number of households adopting agriculture (including RA)-Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-58",
+    "theme": "Agricultural crop production",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Number of Households adopting Regenerative agriculture (RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-59",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Number of households adopting Cereal Crops (including RA) - Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-60",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Area under cereal crops (including RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-61",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Area under cereal crops through Regenerative Agriculture- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-62",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Total volume of production (including RA)- Cereal crops- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-63",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Number of households adopting Millets (including RA) - Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-64",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Area under Millets (including RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-65",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Area under Millets through Regenerative Agriculture- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-66",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Total volume of production (including RA)-Millets- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-67",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Number of households adopting Pulses (including RA) - Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-68",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Area under Pulses (including RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-69",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Area under Pulses through Regenerative Agriculture- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-70",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Total volume of production (including RA)-Pulses- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-71",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Number of households adopting Oilseeds (including RA) - Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-72",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Area under Oilseeds (including RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-73",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Area under Oilseeds through Regenerative Agriculture- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-74",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Total volume of production (including RA)-Oilseeds - Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-75",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Number of households adopting Vegetables (including RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-76",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Area under Vegetables (including RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-77",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Area under Vegetables through Regenerative Agriculture- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-78",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Total volume of production (including RA)-Vegetables - Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-79",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Number of households adopting High Value Crops (including RA) - Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-80",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Area under High Value Crops (including RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-81",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Area under High Value Crops through Regenerative Agriculture- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-82",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Total volume of production-High Value Crops production (including RA)- Rabi",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-83",
+    "theme": "Agricultural crop production",
+    "subtheme": "Agriculture",
+    "text": "Number of households adopting agriculture (including RA)- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-84",
+    "theme": "Agricultural crop production",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Number of Households adopting Regenerative agriculture (RA)- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-85",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Number of households adopting Cereal Crops (including RA) - summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-86",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Area under cereal crops (including RA)- summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-87",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Area under cereal crops through Regenerative Agriculture- summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-88",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Cereals",
+    "text": "Total volume of production (including RA)- Cereal crops- summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-89",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Number of households adopting Millets (including RA) - Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-90",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Area under Millets (including RA)- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-91",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Area under Millets through Regenerative Agriculture- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-92",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Millets",
+    "text": "Total volume of production (including RA)- Millets- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-93",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Number of households adopting Pulses (including RA) - Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-94",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Area under Pulses (including RA)- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-95",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Area under Pulses through Regenerative Agriculture- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-96",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Pulses",
+    "text": "Total volume of production (including RA)- Pulses- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-97",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Number of households adopting Oilseeds (including RA) - Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-98",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Area under Oilseeds (including RA)- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-99",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Area under Oilseeds through Regenerative Agriculture- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-100",
+    "theme": "Agricultural crop production",
+    "subtheme": "Field Crops- Oilseeds",
+    "text": "Total volume of production- Oilseeds production- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-101",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Number of households adopting Vegetables (including RA)- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-102",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Area under Vegetables (including RA)- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-103",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Area under Vegetables through Regenerative Agriculture- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-104",
+    "theme": "Agricultural crop production",
+    "subtheme": "Horticulture- Vegetables",
+    "text": "Total volume of production (including RA)- Vegetables- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-105",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Number of households adopting High Value Crops (including RA) - Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-106",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Area under High Value Crops (including RA)- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-107",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Area under High Value Crops Through Regenerative Agriculture- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-108",
+    "theme": "Agricultural crop production",
+    "subtheme": "High Value Crops",
+    "text": "Total volume of production- High Value Crops production- Summer",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-109",
+    "theme": "Agricultural crop production",
+    "subtheme": "Floriculture",
+    "text": "Number of households adopting Floriculture- Total",
+    "period": "Period"
+  },
+  {
+    "code": "AGR-110",
+    "theme": "Agricultural crop production",
+    "subtheme": "Floriculture",
+    "text": "Area under Floriculture",
+    "period": "Period"
+  },
+  {
+    "code": "AGF-01",
+    "theme": "Agroforestry",
+    "subtheme": "Fruit trees plantation",
+    "text": "Number of households in Fruit trees plantation / orchards",
+    "period": "Cumulative"
+  },
+  {
+    "code": "AGF-02",
+    "theme": "Agroforestry",
+    "subtheme": "Fruit trees plantation",
+    "text": "Area under Fruit trees plantation/orchards",
+    "period": "Cumulative"
+  },
+  {
+    "code": "AGF-03",
+    "theme": "Agroforestry",
+    "subtheme": "Fruit trees plantation",
+    "text": "Total volume of production-  Fruit trees plantation/orchards",
+    "period": "Period"
+  },
+  {
+    "code": "AGF-04",
+    "theme": "Agroforestry",
+    "subtheme": "Tasar plantation",
+    "text": "Number of households adopting Tasar plantation",
+    "period": "Cumulative"
+  },
+  {
+    "code": "AGF-05",
+    "theme": "Agroforestry",
+    "subtheme": "Tasar plantation",
+    "text": "Area under Tasar plantation",
+    "period": "Cumulative"
+  },
+  {
+    "code": "AGF-06",
+    "theme": "Agroforestry",
+    "subtheme": "Forest/timber plantation",
+    "text": "Number of households adopting forest/ timber plantation",
+    "period": "Cumulative"
+  },
+  {
+    "code": "AGF-07",
+    "theme": "Agroforestry",
+    "subtheme": "Forest/timber plantation",
+    "text": "Area under forest/ timber plantation",
+    "period": "Cumulative"
+  },
+  {
+    "code": "AGF-08",
+    "theme": "Agroforestry",
+    "subtheme": "Plantation",
+    "text": "Number of households adopting agroforestry- (Net)",
+    "period": "Cumulative"
+  },
+  {
+    "code": "AGF-09",
+    "theme": "Agroforestry",
+    "subtheme": "Plantation",
+    "text": "Area under agroforestry-Total",
+    "period": "Cumulative"
+  },
+  {
+    "code": "EN-01",
+    "theme": "Enterprise",
+    "subtheme": "Entrepreneurship",
+    "text": "Number of entrepreneurs promoted - Men",
+    "period": "Period"
+  },
+  {
+    "code": "EN-02",
+    "theme": "Enterprise",
+    "subtheme": "Entrepreneurship",
+    "text": "Number of entrepreneurs promoted - Women",
+    "period": "Period"
+  },
+  {
+    "code": "EN-03",
+    "theme": "Enterprise",
+    "subtheme": "Entrepreneurship",
+    "text": "Number of Agri-entrepreneurs promoted- men",
+    "period": "Period"
+  },
+  {
+    "code": "EN-04",
+    "theme": "Enterprise",
+    "subtheme": "Entrepreneurship",
+    "text": "Number of Agri-entrepreneurs promoted- Women",
+    "period": "Period"
+  },
+  {
+    "code": "EN-05",
+    "theme": "Enterprise",
+    "subtheme": "Mushroom",
+    "text": "Number of individuals/households engaged in - Mushroom",
+    "period": "Period"
+  },
+  {
+    "code": "EN-06",
+    "theme": "Enterprise",
+    "subtheme": "Mushroom",
+    "text": "Average income per HH from Mushroom",
+    "period": "Period"
+  },
+  {
+    "code": "EN-07",
+    "theme": "Enterprise",
+    "subtheme": "Vermicomposting",
+    "text": "Number of individuals/households engaged in - Vermicomposting",
+    "period": "Period"
+  },
+  {
+    "code": "EN-08",
+    "theme": "Enterprise",
+    "subtheme": "Vermicomposting",
+    "text": "Average income per HH from Vermicomposting",
+    "period": "Period"
+  },
+  {
+    "code": "EN-09",
+    "theme": "Enterprise",
+    "subtheme": "Mulberry rearing",
+    "text": "Number of individuals/households engaged in - Mulberry rearing",
+    "period": "Period"
+  },
+  {
+    "code": "EN-10",
+    "theme": "Enterprise",
+    "subtheme": "Mulberry rearing",
+    "text": "Average income per HH from Mulberry rearing Enterprises",
+    "period": "Period"
+  },
+  {
+    "code": "EN-11",
+    "theme": "Enterprise",
+    "subtheme": "Agro based",
+    "text": "Number of individuals/households engaged in - Nursery Production unit",
+    "period": "Period"
+  },
+  {
+    "code": "EN-12",
+    "theme": "Enterprise",
+    "subtheme": "Agro based",
+    "text": "Average income per HH from Nursery Production unit",
+    "period": "Period"
+  },
+  {
+    "code": "EN-13",
+    "theme": "Enterprise",
+    "subtheme": "Manufacturing",
+    "text": "Number of individuals/households engaged in - Manufacturing Enterprises",
+    "period": "Period"
+  },
+  {
+    "code": "EN-14",
+    "theme": "Enterprise",
+    "subtheme": "Manufacturing",
+    "text": "Average income per HH from Manufacturing Enterprises",
+    "period": "Period"
+  },
+  {
+    "code": "EN-15",
+    "theme": "Enterprise",
+    "subtheme": "Retail",
+    "text": "Number of individuals/households engaged in - Retail Enterprises",
+    "period": "Period"
+  },
+  {
+    "code": "EN-16",
+    "theme": "Enterprise",
+    "subtheme": "Retail",
+    "text": "Average income per HHfrom Retail Enterprises",
+    "period": "Period"
+  },
+  {
+    "code": "EN-17",
+    "theme": "Enterprise",
+    "subtheme": "Services",
+    "text": "Number of individuals/households engaged in - Service Enterprises",
+    "period": "Period"
+  },
+  {
+    "code": "EN-18",
+    "theme": "Enterprise",
+    "subtheme": "Services",
+    "text": "Average income per HH from Service Enterprise",
+    "period": "Period"
+  },
+  {
+    "code": "EN-19",
+    "theme": "Enterprise",
+    "subtheme": "Processing units",
+    "text": "Number of individuals/households engaged in - Processing units",
+    "period": "Period"
+  },
+  {
+    "code": "EN-20",
+    "theme": "Enterprise",
+    "subtheme": "Processing units",
+    "text": "Average income per HH from processing units Enterprise",
+    "period": "Period"
+  },
+  {
+    "code": "EN-21",
+    "theme": "Enterprise",
+    "subtheme": "Tasar yarn production",
+    "text": "Number of individuals/households engaged in - Tasar yarn production",
+    "period": "Period"
+  },
+  {
+    "code": "EN-22",
+    "theme": "Enterprise",
+    "subtheme": "Tasar yarn production",
+    "text": "Average income per HH from Tasar yarn production Enterprises",
+    "period": "Period"
+  },
+  {
+    "code": "EN-23",
+    "theme": "Enterprise",
+    "subtheme": "NTFP",
+    "text": "Number of individuals/households engaged in- NTFP",
+    "period": "Period"
+  },
+  {
+    "code": "EN-24",
+    "theme": "Enterprise",
+    "subtheme": "NTFP",
+    "text": "Average income per HH from NTFP",
+    "period": "Period"
+  },
+  {
+    "code": "EN-25",
+    "theme": "Enterprise",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Number of Bio-input resource centre (BRC) for Bio-Input production and supply established",
+    "period": "Period"
+  },
+  {
+    "code": "EN-26",
+    "theme": "Enterprise",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Number of households supported through Bio-input resource centre (BRC)",
+    "period": "Period"
+  },
+  {
+    "code": "EN-27",
+    "theme": "Enterprise",
+    "subtheme": "Regenerative Agriculture",
+    "text": "Average income per HH from Bio-input resource centre (BRC)",
+    "period": "Period"
+  },
+  {
+    "code": "LS-01",
+    "theme": "Livestock",
+    "subtheme": "Livestock HH intervention ",
+    "text": "Number of individuals/households trained in livestock rearing",
+    "period": "Period"
+  },
+  {
+    "code": "LS-02",
+    "theme": "Livestock",
+    "subtheme": "Livestock HH intervention ",
+    "text": "Number of households supported for deworming and vaccination and other healthcare services",
+    "period": "Period"
+  },
+  {
+    "code": "LS-03",
+    "theme": "Livestock",
+    "subtheme": "Livestock HH intervention ",
+    "text": "Number of individuals/households adopted livestock rearing (Goat & BYP)- Net",
+    "period": "Period"
+  },
+  {
+    "code": "LS-04",
+    "theme": "Livestock",
+    "subtheme": "Livestock HH intervention ",
+    "text": "Average income per HH from livestock rearing",
+    "period": "Period"
+  },
+  {
+    "code": "LS-05",
+    "theme": "Livestock",
+    "subtheme": "Goat Rearing ",
+    "text": "Number of individuals/households adopted Goat rearing (Prototype)",
+    "period": "Period"
+  },
+  {
+    "code": "LS-06",
+    "theme": "Livestock",
+    "subtheme": "Goat Rearing ",
+    "text": "Average income per HH from Goat rearing",
+    "period": "Period"
+  },
+  {
+    "code": "LS-07",
+    "theme": "Livestock",
+    "subtheme": "BYP",
+    "text": "Number of individuals/households adopted BYP(prototype)",
+    "period": "Period"
+  },
+  {
+    "code": "LS-08",
+    "theme": "Livestock",
+    "subtheme": "BYP",
+    "text": "Average income per HH from BYP",
+    "period": "Period"
+  },
+  {
+    "code": "LS-09",
+    "theme": "Livestock",
+    "subtheme": "Dairy farming",
+    "text": "Number of households adopted- Dairy farming",
+    "period": "Period"
+  },
+  {
+    "code": "LS-10",
+    "theme": "Livestock",
+    "subtheme": "Dairy farming",
+    "text": "Average income per HH from Dairy farming",
+    "period": "Period"
+  },
+  {
+    "code": "LS-11",
+    "theme": "Livestock",
+    "subtheme": "Cattle rearing",
+    "text": "Number of households adopted- Cattle rearing",
+    "period": "Period"
+  },
+  {
+    "code": "LS-12",
+    "theme": "Livestock",
+    "subtheme": "Cattle rearing",
+    "text": "Average income per HH from Cattle rearing",
+    "period": "Period"
+  },
+  {
+    "code": "LS-13",
+    "theme": "Livestock",
+    "subtheme": "Livestock entrepreneurs",
+    "text": "Number of Entrepreneurs engaged in livestock production, products and services- Men",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LS-14",
+    "theme": "Livestock",
+    "subtheme": "Livestock entrepreneurs",
+    "text": "Number of entrepreneurs engaged in livestock production, products and services (Women)",
+    "period": "Cumulative"
+  },
+  {
+    "code": "AQ-01",
+    "theme": "Aquaculture",
+    "subtheme": "Fingerling/Nursery pond",
+    "text": "Number of households adopted Fingerling/nursery pond",
+    "period": "Period"
+  },
+  {
+    "code": "AQ-02",
+    "theme": "Aquaculture",
+    "subtheme": "Fingerling/Nursery pond",
+    "text": "Area under Fingerling/nursery pond",
+    "period": "Period"
+  },
+  {
+    "code": "AQ-03",
+    "theme": "Aquaculture",
+    "subtheme": "Commercial fish rearing",
+    "text": "Number of households adopted Commercial fish rearing",
+    "period": "Period"
+  },
+  {
+    "code": "AQ-04",
+    "theme": "Aquaculture",
+    "subtheme": "Commercial fish rearing",
+    "text": "Area under Commercial fish rearing",
+    "period": "Period"
+  },
+  {
+    "code": "AQ-05",
+    "theme": "Aquaculture",
+    "subtheme": "Commercial fish rearing",
+    "text": "Average income under Commercial fish rearing",
+    "period": "Period"
+  },
+  {
+    "code": "FO-01",
+    "theme": "Forest",
+    "subtheme": "Individual Forest Rights",
+    "text": "Number of Individual forest Rights (IFR ) approved at gram sabha",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-02",
+    "theme": "Forest",
+    "subtheme": "Individual Forest Rights",
+    "text": "Number of  Individual forest Rights (IFR ) claims submitted at SDLC",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-03",
+    "theme": "Forest",
+    "subtheme": "Individual Forest Rights",
+    "text": "Number of individual forest rights (IFR) claims recognized",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-04",
+    "theme": "Forest",
+    "subtheme": "Individual Forest Rights",
+    "text": "Number of women included in IFR as single or joint claimant",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-05",
+    "theme": "Forest",
+    "subtheme": "Individual Forest Rights",
+    "text": "Number of women got rights on forest land as single or joint right holder",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-06",
+    "theme": "Forest",
+    "subtheme": "Community Forest Rights",
+    "text": "Number of CFR claim approved at gram sabha",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-07",
+    "theme": "Forest",
+    "subtheme": "Community Forest Rights",
+    "text": "Number of CFR claim submitted  at SDLC",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-08",
+    "theme": "Forest",
+    "subtheme": "Community Forest Rights",
+    "text": "Number of CFR claim recognized",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-09",
+    "theme": "Forest",
+    "subtheme": "Community Forest Rights",
+    "text": "Total area recognised under CFR",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-10",
+    "theme": "Forest",
+    "subtheme": "Community Forest Rights",
+    "text": "Net No of women included in IFR and CFR",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-11",
+    "theme": "Forest",
+    "subtheme": "Community Forest Rights",
+    "text": "Number of villages in community forest resources \u00a0management",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-12",
+    "theme": "Forest",
+    "subtheme": "Community Forest Management",
+    "text": "Number of villages with CFRM Committee",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-13",
+    "theme": "Forest",
+    "subtheme": "Community Forest Management",
+    "text": "Total forest area included in GIS mapping",
+    "period": "Cumulative"
+  },
+  {
+    "code": "FO-14",
+    "theme": "Forest",
+    "subtheme": "Livelihoods",
+    "text": "Number of households adopted forest-based livelihood- Net",
+    "period": "Period"
+  },
+  {
+    "code": "FO-15",
+    "theme": "Forest",
+    "subtheme": "Tasar Rearing",
+    "text": "Number of individuals/households adopted in Forest-based- Tasar commercial rearing",
+    "period": "Period"
+  },
+  {
+    "code": "FO-16",
+    "theme": "Forest",
+    "subtheme": "Tasar Rearing",
+    "text": "Average income per HH from Forest based- Tasar commercial rearing",
+    "period": "Period"
+  },
+  {
+    "code": "FO-17",
+    "theme": "Forest",
+    "subtheme": "Lac rearing",
+    "text": "Number of households adopted Commercial Lac rearing",
+    "period": "Period"
+  },
+  {
+    "code": "FO-18",
+    "theme": "Forest",
+    "subtheme": "Lac rearing",
+    "text": "Average income per HH from Forest based-Lac rearing",
+    "period": "Period"
+  },
+  {
+    "code": "LA-01",
+    "theme": "Livelihoods",
+    "subtheme": "Assets",
+    "text": "Number of households supported for Livelihood Assets creation-Net",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-02",
+    "theme": "Livelihoods",
+    "subtheme": "Assets",
+    "text": "Number of households with water harvesting structure and other irrigation assets for water access",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-03",
+    "theme": "Livelihoods",
+    "subtheme": "Assets",
+    "text": "Number of individuals/households supported with Farm mechanisation Assets (tractor, harvesters, cultivators etc.)",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-04",
+    "theme": "Livelihoods",
+    "subtheme": "Assets",
+    "text": "Number of household who established micro irrigation",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-05",
+    "theme": "INRM",
+    "subtheme": "Soil and water conservation",
+    "text": "Number of Farm Ponds- Total",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-06",
+    "theme": "INRM",
+    "subtheme": "Soil and water conservation",
+    "text": "Number of low land Water Harvesting Tank/ Percolation Tanks- Total",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-07",
+    "theme": "INRM",
+    "subtheme": "Soil and water conservation",
+    "text": "Water Harvesting Potential Created (Cubic Metres)",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-08",
+    "theme": "INRM",
+    "subtheme": "Soil and water conservation",
+    "text": "Land Area treated with soil and water conservation measures- Total",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-09",
+    "theme": "INRM",
+    "subtheme": "Soil and water conservation",
+    "text": "Land  Area treated with water harvesting structure  (WHS/WDS)",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-10",
+    "theme": "INRM",
+    "subtheme": "Soil and water conservation",
+    "text": "Total Irrigation potential area created",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-11",
+    "theme": "Renewable energy",
+    "subtheme": "Lift Irrigation",
+    "text": "Number of Major and Minor Lift Irrigation",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-12",
+    "theme": "Renewable energy",
+    "subtheme": "Lift Irrigation",
+    "text": "Number of Solar lift irrigation- Total",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-13",
+    "theme": "Renewable energy",
+    "subtheme": "Lift Irrigation",
+    "text": "Area irrigated through Solar lift irrigation",
+    "period": "Period"
+  },
+  {
+    "code": "LA-14",
+    "theme": "Renewable energy",
+    "subtheme": "Lift Irrigation",
+    "text": "Number of HHs benefitted under Solar lift irrigation",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-15",
+    "theme": "Climate Resilience",
+    "subtheme": "Climate Resilient Practices",
+    "text": "Land area under climate resilience practices- Total",
+    "period": "Period"
+  },
+  {
+    "code": "LA-16",
+    "theme": "Renewable energy",
+    "subtheme": "Technical Knowledge",
+    "text": "Number of households/individuals using renewable energy technologies as primary energy solutions",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-17",
+    "theme": "INRM",
+    "subtheme": "GIS based planning",
+    "text": "Number of Villages where GIS based INRM plans prepared",
+    "period": "Cumulative"
+  },
+  {
+    "code": "LA-18",
+    "theme": "INRM",
+    "subtheme": "GIS based planning",
+    "text": "Number of Villages where at least 20 % of the GIS based INRM plans implemented",
+    "period": "Cumulative"
+  },
+  {
+    "code": "TEC-01",
+    "theme": "Technology Integration and Innovation",
+    "subtheme": "Capacity Building",
+    "text": "Number of  individuals trained in Information and Communications Technology (ICT) Skills- (Net)",
+    "period": "Period"
+  },
+  {
+    "code": "TEC-02",
+    "theme": "Technology Integration and Innovation",
+    "subtheme": "Capacity Building",
+    "text": "Number of  women trained in Information and Communications Technology (ICT) Skills",
+    "period": "Period"
+  },
+  {
+    "code": "TEC-03",
+    "theme": "Technology Integration and Innovation",
+    "subtheme": "Technology use",
+    "text": "Number of individuals using ICT for enhancement of livelihoods and life skills",
+    "period": "Period"
+  },
+  {
+    "code": "TEC-04",
+    "theme": "Technology Integration and Innovation",
+    "subtheme": "Technology use",
+    "text": "Number of women using ICT for enhancement of livelihoods and life skills",
+    "period": "Period"
+  },
+  {
+    "code": "SK-01",
+    "theme": "Skills & Jobs",
+    "subtheme": "Skill development and vocational training",
+    "text": "Number of households trained on Skills and jobs",
+    "period": "Period"
+  },
+  {
+    "code": "SK-02",
+    "theme": "Skills & Jobs",
+    "subtheme": "Skill development and vocational training",
+    "text": "Total number of young individuals provided with skill development and job-related training",
+    "period": "Period"
+  },
+  {
+    "code": "SK-03",
+    "theme": "Skills & Jobs",
+    "subtheme": "Skill development and vocational training",
+    "text": "Total number of young women who have received skill development and job-related training",
+    "period": "Period"
+  },
+  {
+    "code": "SK-04",
+    "theme": "Skills & Jobs",
+    "subtheme": "Skill development and vocational training",
+    "text": "Total number of young individuals engaged or mobilized for skill development and job-related opportunities.",
+    "period": "Period"
+  },
+  {
+    "code": "SK-05",
+    "theme": "Skills & Jobs",
+    "subtheme": "Skill development and vocational training",
+    "text": "Total number of young women engaged or mobilized for skill development and job-related opportunities.",
+    "period": "Period"
+  },
+  {
+    "code": "SK-06",
+    "theme": "Skills & Jobs",
+    "subtheme": "Skill development and vocational training",
+    "text": "Total number of young individuals who successfully secured employment",
+    "period": "Period"
+  },
+  {
+    "code": "SK-07",
+    "theme": "Skills & Jobs",
+    "subtheme": "Skill development and vocational training",
+    "text": "Total number of young women who successfully secured employment",
+    "period": "Period"
+  },
+  {
+    "code": "CO-01",
+    "theme": "Convergence",
+    "subtheme": "Interdepartmental",
+    "text": "Number of guidelines/official directives issued with PRADAN's guidance and support",
+    "period": "Cumulative"
+  },
+  {
+    "code": "CO-02",
+    "theme": "Convergence",
+    "subtheme": "Interdepartmental",
+    "text": "Number of departments supported through perspective building, data based governance or similar kind of activities",
+    "period": "Period"
+  },
+  {
+    "code": "CO-03",
+    "theme": "Convergence",
+    "subtheme": "Interdepartmental",
+    "text": "Number of Govt. staff /Frontline functionaries trained",
+    "period": "Period"
+  },
+  {
+    "code": "CO-04",
+    "theme": "Coalition",
+    "subtheme": "CSOs",
+    "text": "Number of CSO staff trained",
+    "period": "Period"
+  },
+  {
+    "code": "CO-06",
+    "theme": "Coalition",
+    "subtheme": "CSOs",
+    "text": "Number of coalitions in which PRADAN is part of or promoted- District Level",
+    "period": "Cumulative"
+  },
+  {
+    "code": "CO-07",
+    "theme": "Coalition",
+    "subtheme": "Joint Action",
+    "text": "Number of workshops/roundtables conducted with relevant stakeholders including Govt. dept, PRI, CSOs, CBOs to advance the PRADAN priorities",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-01",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Innovations",
+    "text": "Number of innovations (scalable approaches, prototypes, models, tools) developed (by theme/geography/type/stage of maturity)- Total",
+    "period": "Cumulative"
+  },
+  {
+    "code": "ORG-02",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Representing PRADAN in external forum",
+    "text": "Proportion of experienced team members mentoring younger colleagues in innovation and learning.",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-03",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Action research",
+    "text": "Number of action research projects",
+    "period": "Cumulative"
+  },
+  {
+    "code": "ORG-04",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Knowledge Products",
+    "text": "Number of knowledge products created to share approaches and lessons learned-Total",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-05",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Knowledge Products",
+    "text": "Number of knowledge products created to share approaches and lessons learned- Studies",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-06",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Knowledge Products",
+    "text": "Number of knowledge products created to share approaches and lessons learned- Reflective pieces",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-07",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Knowledge Products",
+    "text": "Number of knowledge products created to share approaches and lessons learned- Case studies",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-08",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Knowledge Products",
+    "text": "Number of Practice guides (toolkits, good practices, models/prototypes)",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-09",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Events",
+    "text": "Number of internal learning and reflection events",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-10",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Knowledge Products",
+    "text": "Number of team members producing at least one reflective piece (writing, audio, video, etc.)",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-11",
+    "theme": "Gender Equity and Leadership",
+    "subtheme": "Gender Integration",
+    "text": "Number of initiatives with clearly articulated gender equality outcomes",
+    "period": "Cumulative"
+  },
+  {
+    "code": "ORG-12",
+    "theme": "Gender Equity and Leadership",
+    "subtheme": "Gender Integration",
+    "text": "Proportion of Action Plan against the Gender Audit recommendations implemented",
+    "period": "Cumulative"
+  },
+  {
+    "code": "ORG-13",
+    "theme": "Gender Equity and Leadership",
+    "subtheme": "Gender Integration",
+    "text": "Proportion of women from the team attending the women's caucus",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-14",
+    "theme": "Gender Equity and Leadership",
+    "subtheme": "Women's representation",
+    "text": "Proportion of women in the team specialising in climate action, agriculture, forestry and/or INRM",
+    "period": "Cumulative"
+  },
+  {
+    "code": "ORG-15",
+    "theme": "Gender Equity and Leadership",
+    "subtheme": "Representing PRADAN in external forum",
+    "text": "Number of member in the team representing the organisation in external fora (e.g. conferences/events, interactions with government officials)",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-16",
+    "theme": "Gender Equity and Leadership",
+    "subtheme": "Women's representation",
+    "text": "Number of women in the team representing the organisation in external fora (e.g. conferences/events, interactions with government officials)",
+    "period": "Period"
+  },
+  {
+    "code": "ORG-17",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Digital Tools and Platforms",
+    "text": "Number of digital tools/platforms introduced/used to achieve internal/external objectives",
+    "period": "Cumulative"
+  },
+  {
+    "code": "ORG-18",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Skill and Expertise",
+    "text": "Percentage of staff proficient in at least one key thematic or technical areas",
+    "period": "Cumulative"
+  },
+  {
+    "code": "ORG-19",
+    "theme": "Organizational Capacity and Learning",
+    "subtheme": "Skill and Expertise",
+    "text": "Proportion of staff contributing knowledge and skills across more than one thematic area.",
+    "period": "Cumulative"
+  }
+]
