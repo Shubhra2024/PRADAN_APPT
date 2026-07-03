@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>APPT Odisha 2026-27 | Data Entry &amp; Consolidation</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<link rel="stylesheet" href="/static/style.css?v=3">
+</head>
+<body>
+
+<div id="app">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">A</div>
+      <div>
+        <h1>APPT Odisha <span>2026-27</span></h1>
+        <p>Annual Planning &amp; Progress Template — Automated Consolidation</p>
+      </div>
+    </div>
+    <nav class="tabs">
+      <button class="tab-btn active" data-tab="entry">Data Entry</button>
+      <button class="tab-btn" data-tab="district">District Report</button>
+      <button class="tab-btn" data-tab="state">State Consolidation</button>
+      <button class="tab-btn" data-tab="dashboard">Dashboard</button>
+      <button id="logoutBtn" class="tab-btn" style="margin-left:auto;opacity:.8;">Sign Out</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ============ DATA ENTRY ============ -->
+    <section id="tab-entry" class="tab-panel active">
+      <div class="entry-controls card">
+        <div class="field">
+          <label>District</label>
+          <select id="entryDistrict"></select>
+        </div>
+        <div class="field">
+          <label>Category filter</label>
+          <select id="entryCategoryFilter">
+            <option value="">All (Grassroot + Ecosystem)</option>
+            <option value="Grassroot">Grassroot only</option>
+            <option value="Ecosystem">Ecosystem only</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Block</label>
+          <select id="entryBlock"></select>
+        </div>
+        <div class="field">
+          <label>Financial Year</label>
+          <select id="entryFY"></select>
+        </div>
+        <div class="field">
+          <label>Quarter</label>
+          <select id="entryQuarter">
+            <option value="">All Quarters (Q1-Q4)</option>
+            <option value="Q1">Q1</option>
+            <option value="Q2">Q2</option>
+            <option value="Q3">Q3</option>
+            <option value="Q4">Q4</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Theme filter</label>
+          <select id="entryTheme"><option value="">All themes</option></select>
+        </div>
+        <div class="field grow">
+          <label>Search indicator</label>
+          <input type="text" id="entrySearch" placeholder="e.g. GE-01 or 'villages covered'">
+        </div>
+      </div>
+
+      <div class="card workflow-bar">
+        <div class="wf-status" id="wfStatus">Loading period status...</div>
+        <span id="blockCategoryBadge" class="category-badge"></span>
+        <button id="freezeBtn" class="btn-freeze">🔒 Freeze current quarter &amp; open next</button>
+        <button id="unfreezeBtn" class="btn-unfreeze">🔓 Unfreeze last quarter</button>
+        <span style="flex:1"></span>
+        <button id="saveBtn" class="btn-primary">💾 Save All</button>
+        <span id="saveStatus" class="save-status"></span>
+      </div>
+
+      <div id="frozenBanner" class="frozen-banner" style="display:none;">
+        🔒 You're viewing <strong id="frozenBannerText"></strong> — this period is frozen and read-only.
+      </div>
+
+      <div class="card table-card">
+        <table id="entryTable">
+          <thead>
+            <tr id="entryHeadRow"></tr>
+          </thead>
+          <tbody id="entryTbody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ============ DISTRICT REPORT ============ -->
+    <section id="tab-district" class="tab-panel">
+      <div class="entry-controls card">
+        <div class="field">
+          <label>District</label>
+          <select id="reportDistrict"></select>
+        </div>
+        <div class="field">
+          <label>Financial Year</label>
+          <select id="reportFY"></select>
+        </div>
+        <div class="field grow">
+          <label>Search indicator</label>
+          <input type="text" id="districtSearch" placeholder="Filter indicators...">
+        </div>
+        <button id="exportDistrictBtn" class="btn-secondary">⬇ Export Excel</button>
+      </div>
+      <div class="card table-card">
+        <div class="scroll-x">
+          <table id="districtTable">
+            <thead><tr id="districtHeadRow"></tr></thead>
+            <tbody id="districtTbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ STATE CONSOLIDATION ============ -->
+    <section id="tab-state" class="tab-panel">
+      <div class="entry-controls card">
+        <div class="field">
+          <label>Financial Year</label>
+          <select id="stateFY"></select>
+        </div>
+        <div class="field grow">
+          <label>Search indicator</label>
+          <input type="text" id="stateSearch" placeholder="Filter indicators...">
+        </div>
+        <div class="field">
+          <label>Theme</label>
+          <select id="stateTheme"><option value="">All themes</option></select>
+        </div>
+        <button id="exportStateBtn" class="btn-secondary">⬇ Export Excel</button>
+      </div>
+      <div class="card table-card">
+        <div class="scroll-x">
+          <table id="stateTable">
+            <thead><tr id="stateHeadRow"></tr></thead>
+            <tbody id="stateTbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ DASHBOARD ============ -->
+    <section id="tab-dashboard" class="tab-panel">
+      <div class="entry-controls card">
+        <div class="field">
+          <label>Financial Year</label>
+          <select id="dashFY"></select>
+        </div>
+      </div>
+      <div class="kpi-row" id="kpiRow"></div>
+
+      <div class="grid-2">
+        <div class="card chart-card">
+          <h3>Achievement % by Theme</h3>
+          <canvas id="chartTheme"></canvas>
+        </div>
+        <div class="card chart-card">
+          <h3>District Ranking — % Achieved</h3>
+          <canvas id="chartDistrict"></canvas>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card chart-card">
+          <h3>Quarterly Progress (State-wide)</h3>
+          <canvas id="chartQuarter"></canvas>
+        </div>
+        <div class="card chart-card">
+          <h3>Plan vs Achieved — Top Districts</h3>
+          <canvas id="chartPlanAchv"></canvas>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card chart-card">
+          <h3>Grassroot vs Ecosystem — Achievement %</h3>
+          <canvas id="chartCategory"></canvas>
+        </div>
+        <div class="card chart-card">
+          <h3>Grassroot vs Ecosystem — Plan vs Achieved</h3>
+          <canvas id="chartCategoryPlanAchv"></canvas>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Block-wise Heatmap <span id="heatDistrictLabel"></span></h3>
+        <select id="heatDistrictSelect" style="margin-bottom:12px;"></select>
+        <div id="heatmapGrid" class="heatmap-grid"></div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<script src="/static/app.js?v=3"></script>
+</body>
+</html>

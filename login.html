@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>APPT Odisha 2026-27 | Login</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: linear-gradient(135deg, #1F4E78 0%, #163A5A 100%);
+  }
+  .box {
+    background: white; border-radius: 14px; padding: 34px 30px; width: 340px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.25);
+  }
+  .mark {
+    width: 46px; height: 46px; border-radius: 12px; background: #2E9E6B;
+    display: flex; align-items: center; justify-content: center; color: white;
+    font-weight: 800; font-size: 20px; margin-bottom: 14px;
+  }
+  h1 { font-size: 18px; margin: 0 0 2px 0; color: #24303D; }
+  p.sub { font-size: 12.5px; color: #6B7686; margin: 0 0 20px 0; }
+  label { font-size: 11.5px; font-weight: 700; color: #6B7686; text-transform: uppercase; letter-spacing: .03em; }
+  input {
+    width: 100%; padding: 10px 12px; margin-top: 6px; margin-bottom: 16px;
+    border: 1px solid #E2E6EC; border-radius: 8px; font-size: 14px;
+  }
+  button {
+    width: 100%; padding: 11px; border: none; border-radius: 8px;
+    background: #2E9E6B; color: white; font-weight: 700; font-size: 14px; cursor: pointer;
+  }
+  button:hover { opacity: 0.92; }
+  .error { color: #C0392B; font-size: 12.5px; margin-top: -8px; margin-bottom: 12px; display: none; }
+</style>
+</head>
+<body>
+  <div class="box">
+    <div class="mark">A</div>
+    <h1>APPT Odisha 2026-27</h1>
+    <p class="sub">Enter the shared access password to continue.</p>
+    <form id="loginForm">
+      <label>Password</label>
+      <input type="password" id="password" autofocus required>
+      <div class="error" id="err">Incorrect password. Please try again.</div>
+      <button type="submit">Sign In</button>
+    </form>
+  </div>
+
+<script>
+document.getElementById('loginForm').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const password = document.getElementById('password').value;
+  const err = document.getElementById('err');
+  err.style.display = 'none';
+  const res = await fetch('/login', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ password })
+  });
+  if (res.ok) {
+    window.location = '/';
+  } else {
+    err.style.display = 'block';
+  }
+});
+</script>
+</body>
+</html>
